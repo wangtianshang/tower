@@ -1,0 +1,12 @@
+[target]
+172.16.20.33
+172.16.20.69
+172.16.20.110
+172.16.20.117
+172.16.20.63
+172.16.20.55
+172.16.20.45
+[target:vars]
+ansible_user=root
+ansible_password=@pp3xn3tw0rks
+ansible_port=22
