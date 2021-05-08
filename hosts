@@ -6,6 +6,7 @@
 172.16.20.63
 172.16.20.55
 172.16.20.45
+120.53.105.188
 [target:vars]
 ansible_user=root
 ansible_password=@pp3xn3tw0rks
